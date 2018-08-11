@@ -1,0 +1,328 @@
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe.config
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Properties.Resources.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.GenerateResource.cache
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.exe
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.VentanaLogin.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Menu.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ConexcionBD.dll
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CopyComplete
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cultura.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.Core.dll
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cursos.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearCurso.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoEstudiante.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarCurso.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarCurso.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Guia.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Facturaccion.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearFactura.resources
+C:\Users\Ronald\Source\Repos\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo2.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe.config
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ConexcionBD.dll
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.Core.dll
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csprojAssemblyReference.cache
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarCurso.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearCurso.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearFactura.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cultura.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cursos.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Facturaccion.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Guia.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarCurso.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoEstudiante.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo2.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.VentanaLogin.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Menu.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Properties.Resources.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.GenerateResource.cache
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CoreCompileInputs.cache
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CopyComplete
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.exe
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarCurso.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.AgregarProfesor.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarProfesor.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarProfesor.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarProfesor.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesAlumnos.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesHorarios.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesProfesores.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarGuia.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarGuia.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoGuia.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ActualizarRecorrido.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarRecorrido.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearEstudiante.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearParticipante.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTaller.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTallerista.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTurista.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarTaller.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarEstudiante.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarParticipante.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTaller.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTallerista.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModuloClientes.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModuloCultura.resources
+C:\Users\ona\Documents\5to Semestre\APP_proyecto\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTurista.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe.config
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ConexcionBD.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.Core.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csprojAssemblyReference.cache
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ActualizarRecorrido.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.AgregarProfesor.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarCurso.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarProfesor.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarRecorrido.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearCurso.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearEstudiante.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearFactura.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearParticipante.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTaller.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTallerista.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTurista.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cultura.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cursos.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarCurso.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarGuia.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarProfesor.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarTaller.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Facturaccion.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Guia.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarCurso.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarEstudiante.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarGuia.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarParticipante.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarProfesor.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTaller.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTallerista.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTurista.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModuloClientes.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModuloCultura.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoEstudiante.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoGuia.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesAlumnos.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesHorarios.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesProfesores.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo2.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.VentanaLogin.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Menu.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Properties.Resources.resources
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.GenerateResource.cache
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CoreCompileInputs.cache
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CopyComplete
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.exe
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\AngleSharp.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.OOXML.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp-WPF.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp.Xps.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.InversionOfControl.Abstractions.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.Windows.Documents.Reporting.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\AngleSharp.xml
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.xml
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp-WPF.xml
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp.Xps.xml
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.InversionOfControl.Abstractions.xml
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.Windows.Documents.Reporting.pdb
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.Windows.Documents.Reporting.xml
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\EnvDTE.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\stdole.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.MSXML.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe.config
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.exe
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Aplicaciones En Ambientes Porpietarios.pdb
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\AngleSharp.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ConexcionBD.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.Core.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.OOXML.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp-WPF.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp.Xps.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.InversionOfControl.Abstractions.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.Windows.Documents.Reporting.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\EnvDTE.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\stdole.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\Microsoft.MSXML.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\AngleSharp.xml
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\NPOI.xml
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp-WPF.xml
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\PdfSharp.Xps.xml
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.InversionOfControl.Abstractions.xml
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.Windows.Documents.Reporting.pdb
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\System.Windows.Documents.Reporting.xml
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csprojAssemblyReference.cache
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ActualizarRecorrido.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.AgregarProfesor.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarCurso.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarProfesor.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.BuscarRecorrido.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearCurso.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearEstudiante.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearFactura.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearParticipante.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTaller.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTallerista.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.CrearTurista.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cultura.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Cursos.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarCurso.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarGuia.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarProfesor.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.EliminarTaller.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Facturaccion.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Guia.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarCurso.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarEstudiante.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarGuia.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarParticipante.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarProfesor.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTaller.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTallerista.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModificarTurista.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModuloClientes.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ModuloCultura.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoEstudiante.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.NuevoGuia.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesAlumnos.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesHorarios.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.ReportesProfesores.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Turismo2.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.VentanaLogin.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Menu.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones_En_Ambientes_Porpietarios.Properties.Resources.resources
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.GenerateResource.cache
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CoreCompileInputs.cache
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.csproj.CopyComplete
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.exe
+E:\Proyecto - copia\Aplicaciones En Ambientes Porpietarios\obj\Debug\Aplicaciones En Ambientes Porpietarios.pdb
